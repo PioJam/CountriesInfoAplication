@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountriesInfoApp</string>
+    <string name="capital">Capital:</string>
+    <string name="region">Region:</string>
+    <string name="population">Population:</string>
+    <string name="area">Area:</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="units">km²</string>
+    <string name="mainCountryName"/>
+</resources>
